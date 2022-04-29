@@ -28,7 +28,7 @@ public class Dipinto {
 	@Max(value = 2022, message = "Il dipinto deve essere max dell'anno 2022")
 	private int anno;
  
-    
+//okokokokokok    
 
 	
 }
